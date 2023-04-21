@@ -10,11 +10,15 @@ int main(void)
 	int o = 65;
 
 	while (s <= 122)
+	{
 		putchar(s);
 		s++;
+	}
 	while (o <= 90)
+	{
 		putchar(o);
 		o++;
+	}
 	putchar('\n');
 	return (0);
 }
