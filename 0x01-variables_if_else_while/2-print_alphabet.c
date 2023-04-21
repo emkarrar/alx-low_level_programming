@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- * main - entry point - parameter: n Return: 0
+ * main - entry point
+ * Description: print alpha lowercase
+ * Return: 0
  */
-int man(void)
+int main(void)
 {
 	int n = 97;
 
