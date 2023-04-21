@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - entry point 
- * Return: 0
+ * main - entry point - parameter: n Return: 0
  */
 int man(void)
 {
