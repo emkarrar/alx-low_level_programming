@@ -8,7 +8,7 @@ int _strlen(char *s)
 {
 	int n;
 
-	*s = n;
+	n = *s;
 
 	return (sizeof(n));
 }
